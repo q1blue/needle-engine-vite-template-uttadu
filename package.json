@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@needle-tools/engine": "^3.11.0-beta",
-    "three": "npm:@needle-tools/three@0.154.2"
+    "three": "0.160.0"
   },
   "devDependencies": {
     "@needle-tools/helper": "^0.7.4",
