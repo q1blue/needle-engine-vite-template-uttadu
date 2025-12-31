@@ -12,11 +12,11 @@
     "three": "npm:@needle-tools/three@0.154.2"
   },
   "devDependencies": {
-    "@needle-tools/helper": "^0.7.4",
+    "@needle-tools/helper": "^1.11.5",
     "@types/three": "0.146.0",
-    "@vitejs/plugin-basic-ssl": "^1.0.1",
+    "@vitejs/plugin-basic-ssl": "^1.2.0",
     "typescript": "^5.0.4",
-    "vite": "<= 4.3.9",
+    "vite": "<= 7.3.1",
     "vite-plugin-compression": "^0.5.1"
   },
   "author": {
